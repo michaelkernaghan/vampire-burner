@@ -4,24 +4,24 @@
 </script>
 
 <style lang="scss">
-  $tezos-blue: #5d0808;
+  $blood-red: #880808;
 
 
   .title {
-    color: $tezos-blue;
+    color: $blood-red;
     font-size: 100px;
     margin: 20px;
   }
 
   .subtitle {
     font-size: 40px;
-    color: #5d0808;
+    color: $blood-red;
     margin: 10px;
   }
 
   .link {
     font-size: 20px;
-    color: #5d0808;
+    color: $blood-red;
     margin: 10px;
   }
 
