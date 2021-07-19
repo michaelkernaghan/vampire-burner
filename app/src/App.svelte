@@ -19,6 +19,13 @@
     margin: 10px;
   }
 
+  .note {
+    color: $blood-red;
+    font-size: 12px;
+    margin: 20px;
+    font-style: italic
+  }
+
   .link {
     font-size: 20px;
     color: $blood-red;
@@ -30,12 +37,14 @@
 <main>
     <div class="title">Vampire Tokens</div>
     <img src={`images/vampire.png`} alt={'vampire'} style="width:100px"/>
-    <div class="subtitle">Hunt, Stake or Burn!</div>
+    <div class="subtitle">You must hunt them and stake or burn them!</div>
 
-    <div class="link"><a href="https://quipuswap.com/swap?from=tez&to=KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0">Hunt Vampires at QuipuSwap</a><br>
-    <div class="link"><a href="https://quipuswap.com/invest/add-liquidity/KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0">Stake Vampires by adding to the liquidity pool at QuipuSwap</a></div>
+    <div class="link">Hunt Vampires at <a href="https://quipuswap.com/swap?from=tez&to=KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0">QuipuSwap</a><br>
+    <div class="link">Stake Vampires by adding to the liquidity pool at <a href="https://quipuswap.com/invest/add-liquidity/KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0">QuipuSwap</a></div>
 
-  <div class="link">To burn Vampires send them to burner.crunchy.tez</div>
+  <div class="link">Burn* Vampires by sending them to KT1CZMurPAjSfZqcn6LBUNUhG4byE6AJgDT6</div>
+
+  <div class="note">* Vampire's burn when exposed to sunlight or doused with Holy Water.</div>
 
 
   <div>
