@@ -50,10 +50,13 @@
                 <h1>Burn</h1>
                 <ul class="list">
                   <li class="first">
-                    Burn vampires by sending them to Crunchy Burner
+                    To burn vampires send them to the Burner at
+
+                    <p class="smaller">KT1CZMurPAjSfZqcn6LBUNUhG4byE6AJgDT6</p>
                   </li>
                   <li>Vampires burn when exposed to sunlight</li>
                 </ul>
+
                 <a
                   href="https://tzkt.io/KT1CZMurPAjSfZqcn6LBUNUhG4byE6AJgDT6/operations/"
                   class="button button3">Burn V</a
