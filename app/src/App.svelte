@@ -39,7 +39,7 @@
                     Stake vampires by adding to the liquidity pool
                   </li>
                   <li>Earn rewards</li>
-                  <li>You can unstake a vampire at anytime but lookout!</li>
+                  <li>You can unstake a vampire at anytime but look out!</li>
                 </ul>
                 <a
                   href="https://quipuswap.com/invest/add-liquidity/KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0"
