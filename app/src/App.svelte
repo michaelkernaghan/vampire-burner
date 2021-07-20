@@ -27,11 +27,9 @@
                     coffins if you swap Tez with them
                   </li>
                 </ul>
-                <a href="#" class="button button1"
-                  ><a
-                    href="https://quipuswap.com/swap?from=tez&to=KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0"
-                    >Swap V</a
-                  ></a
+                <a
+                  href="https://quipuswap.com/swap?from=tez&to=KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0"
+                  class="button button1">Swap V</a
                 >
               </div>
               <div class="packages">
@@ -43,11 +41,9 @@
                   <li>Earn rewards</li>
                   <li>You can unstake a vampire at anytime but lookout!</li>
                 </ul>
-                <a href="#" class="button button2"
-                  ><a
-                    href="https://quipuswap.com/invest/add-liquidity/KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0"
-                    >Add V Liquidity</a
-                  ></a
+                <a
+                  href="https://quipuswap.com/invest/add-liquidity/KT1QQPYLhqHSkJQNYdLQuNAw5uYkQbJ1s2Jw_0"
+                  class="button button2">Add V Liquidity</a
                 >
               </div>
               <div class="packages">
@@ -60,11 +56,9 @@
                   <li>Vampires burn when exposed to sunlight</li>
                 </ul>
 
-                <a href="#" class="button button3">
-                  <a
-                    href="https://tzkt.io/KT1CZMurPAjSfZqcn6LBUNUhG4byE6AJgDT6/operations/"
-                    >Burn V</a
-                  ></a
+                <a
+                  href="https://tzkt.io/KT1CZMurPAjSfZqcn6LBUNUhG4byE6AJgDT6/operations/"
+                  class="button button3">Burn V</a
                 >
               </div>
             </div>
@@ -78,14 +72,12 @@
 <style lang="scss">
   $blood-red: #880808;
 
-  
-
   .title {
-  color: $blood-red;
-  font-family:   Helvetica, sans-serif;
-  font-size: 100px;
-  margin: 20px;
-}
+    color: $blood-red;
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    margin: 20px;
+  }
 
   .container {
     width: 100%;
@@ -106,7 +98,7 @@
       0 15px 12px rgba(30, 35, 33, 0.2);
     flex-wrap: wrap;
     color: #f4f4f4;
-    font-family:   Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
   }
 
   h1,
@@ -125,12 +117,12 @@
     padding-inline-start: 0;
     border-width: 1px;
     padding: 10px;
-    font-family:   Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
   }
 
   .smaller {
     font-size: 12px;
-    font-family:   Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     text-align: center;
   }
 
@@ -147,7 +139,7 @@
     padding: 0;
   }
 
- .button {
+  .button {
     padding: 10px 30px;
     text-decoration: none;
     font-size: 1.4em;
@@ -155,7 +147,7 @@
     border-radius: 50px;
     color: #f4f4f4;
     transition: all 0.3s ease 0s;
-    font-family:   Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
   }
 
   .button:hover {
