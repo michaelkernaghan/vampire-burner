@@ -3,18 +3,18 @@
 
 <main>
   <header class="ScriptHeader">
-    <div class="rt-container">
-      <div class="col-rt-12">
-        <div class="rt-heading">
+    <!-- <div class="rt-container"> -->
+     <!-- <div class="col-rt-12"> -->
+        <!-- <div class="rt-heading"> -->
           <div class="title">Vampire Tokens</div>
-        </div>
-      </div>
-    </div>
+        <!-- </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
   </header>
   <section>
-    <div class="rt-container">
+    <!-- <div class="rt-container">
       <div class="col-rt-12">
-        <div class="Scriptcontent">
+        <div class="Scriptcontent"> -->
           <div class="container">
             <div class="package-container">
               <div class="packages">
@@ -65,9 +65,9 @@
                 >
               </div>
             </div>
-          </div>
+          <!-- </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
   <div class="smaller"><a href="https://icons8.com/icon/MtpOauMbOEhI/dead-man-in-a-coffin">Icons by Icons8</a></div>
@@ -75,13 +75,13 @@
 
 <style lang="scss">
   $blood-red: #880808;
-  @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
 
   .title {
     color: $blood-red;
-    font-family: 'Nosifer', cursive;
-    font-size: 100px;
-    margin: 20px;
+    font-family: 'Butcherman', cursive;
+    font-size: 120px;
+    // margin: 20px;
   }
 
   .container {
