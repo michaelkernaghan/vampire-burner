@@ -20,6 +20,7 @@
             <div class="package-container">
               <div class="packages">
                 <h1>Hunt</h1>
+                <img src="https://img.icons8.com/color/96/000000/dead-man-in-a-coffin.png"/>
                 <ul class="list">
                   <li class="first">The vampires are on the loose!</li>
                   <li>
@@ -35,6 +36,7 @@
               <div class="packages">
                 <h1>Stake</h1>
                 <ul class="list">
+                  <img src="https://img.icons8.com/color/96/000000/slice.png"/>
                   <li class="first">
                     Stake vampires by adding to the liquidity pool
                   </li>
@@ -49,6 +51,7 @@
               <div class="packages">
                 <h1>Burn</h1>
                 <ul class="list">
+                  <img src="https://img.icons8.com/color/96/000000/fire-element--v2.png"/>
                   <li class="first">
                     To burn vampires send them to the Burner at
 
@@ -68,6 +71,7 @@
       </div>
     </div>
   </section>
+  <div class="smaller"><a href="https://icons8.com/icon/MtpOauMbOEhI/dead-man-in-a-coffin">Icons by Icons8</a></div>
 </main>
 
 <style lang="scss">
