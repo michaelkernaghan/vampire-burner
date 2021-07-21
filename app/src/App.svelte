@@ -8,7 +8,6 @@
         <div class="rt-heading">
           <div class="title">Vampire Tokens</div>
         </div>
-        <img src={`images/nosferatu.jpg`} alt={"vampire"}/>
       </div>
     </div>
   </header>
@@ -76,10 +75,11 @@
 
 <style lang="scss">
   $blood-red: #880808;
+  @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
 
   .title {
     color: $blood-red;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Nosifer', cursive;
     font-size: 100px;
     margin: 20px;
   }
