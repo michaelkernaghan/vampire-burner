@@ -36,7 +36,7 @@
               <div class="packages">
                 <h1>Stake</h1>
                 <ul class="list">
-                  <img src="https://img.icons8.com/color/100/000000/stick-fighting.png"/>
+                  <img src="https://img.icons8.com/color/100/000000/stick-fighting.png" height=90/>
                   <li class="first">
                     Stake vampires by adding to the liquidity pool
                   </li>
