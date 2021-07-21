@@ -8,7 +8,7 @@
         <div class="rt-heading">
           <div class="title">Vampire Tokens</div>
         </div>
-        <img src={`images/vampire.png`} alt={"vampire"} style="width:80px" />
+        <img src={`images/nosferatu.jpg`} alt={"vampire"}/>
       </div>
     </div>
   </header>
