@@ -3,25 +3,16 @@
 
 <main>
   <header class="ScriptHeader">
-    <!-- <div class="rt-container"> -->
-     <!-- <div class="col-rt-12"> -->
-        <!-- <div class="rt-heading"> -->
           <div class="title">Vampire Tokens</div>
-        <!-- </div> -->
-      <!-- </div> -->
-    <!-- </div> -->
   </header>
   <section>
-    <!-- <div class="rt-container">
-      <div class="col-rt-12">
-        <div class="Scriptcontent"> -->
           <div class="container">
             <div class="package-container">
               <div class="packages">
                 <h1>Hunt</h1>
                 <img src="https://img.icons8.com/color/96/000000/dead-man-in-a-coffin.png"/>
                 <ul class="list">
-                  <li class="first">The vampires are on the loose!</li>
+                  <li class="first">Thirsty vampires are on the loose!</li>
                   <li>
                     Vampires sleep during the day but can be roused from their
                     coffins if you swap Tez with them
@@ -65,9 +56,6 @@
                 >
               </div>
             </div>
-          <!-- </div>
-        </div>
-      </div> -->
     </div>
   </section>
   <div class="smaller"><a href="https://icons8.com/icon/MtpOauMbOEhI/dead-man-in-a-coffin">Icons by Icons8</a></div>
@@ -75,11 +63,12 @@
 
 <style lang="scss">
   $blood-red: #880808;
-  @import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 
   .title {
     color: $blood-red;
-    font-family: 'Butcherman', cursive;
+    font-family: 'Pirata One', cursive;
     font-size: 120px;
     // margin: 20px;
   }
@@ -103,7 +92,7 @@
       0 15px 12px rgba(30, 35, 33, 0.2);
     flex-wrap: wrap;
     color: #f4f4f4;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Acme', sans-serif;
   }
 
   h1,
@@ -122,12 +111,12 @@
     padding-inline-start: 0;
     border-width: 1px;
     padding: 10px;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Acme', sans-serif;
   }
 
   .smaller {
     font-size: 12px;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Acme', sans-serif;
     text-align: center;
   }
 
@@ -152,7 +141,7 @@
     border-radius: 50px;
     color: #f4f4f4;
     transition: all 0.3s ease 0s;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Acme', sans-serif;
   }
 
   .button:hover {
